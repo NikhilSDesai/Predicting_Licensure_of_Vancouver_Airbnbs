@@ -1,4 +1,4 @@
-# yvr-airbnb-license-model
+# Predicting Licensure of Vancouver Airbnb Listings
 Predicting the legality of Airbnb's in Vancouver using quantitative method models.
 
 ## Overview
