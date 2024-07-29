@@ -1,6 +1,8 @@
 # Predicting Licensure of Vancouver Airbnb Listings
 Predicting the legality of Airbnb's in Vancouver using statistical models.
 
+<img style="width:1920px;" src="QM.png">
+
 ## Overview
 This project aims to predict the legality of Airbnb's in Vancouver. Using Airbnb data collected from [InsideAirbnb](http://insideairbnb.com/vancouver) (yvr_listing_data.csv), we will use the available quantitative and qualitative data to predict whether or not each individual Airbnb has a license. In essense, we will use quantitative methods to see if there is strong relationship between the legality of the Airbnb, and the variables (or combination of them) associated with the listing.
 
